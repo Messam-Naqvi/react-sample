@@ -101,7 +101,7 @@ export default function Signin({ onLoginSuccess }) {
           align="center"
           sx={{ mt: 3, color: "text.secondary" }}
         >
-          Use <strong>test@example.com</strong> / <strong>password</strong> to log in
+          Use <strong>test@example.com</strong> / <strong>1234</strong> to log in
         </Typography>
       </Paper>
     </Box>
